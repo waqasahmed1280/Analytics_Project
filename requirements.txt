@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+jupyter # Added jupyter for notebook execution and conversion
+nbformat # Added for reading/writing notebook files if needed by conversion tools
+ipykernel # Required for jupyter kernelspec in notebook
